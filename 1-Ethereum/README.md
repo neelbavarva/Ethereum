@@ -25,31 +25,31 @@
 <br>
 
 <p>6. What metamask contains and how it is connected to different ethereum networks.</p>
-<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/6.png">
 
 <br>
 
 <p>7. What a contract account have?</p>
-<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/7.png">
 
 <br>
 
 <p>8. What a contract functions can do?</p>
-<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/8.png">
 
 <br>
 
 <p>9. About gasPrice and gasLimit (appears in ethreum online compilier).</p>
-<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/9.png">
 
 <br>
 
 <p>10. How different operations cost in ethereum compilation.</p>
-<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/10.png">
 
 <br>
 
 <p>11. Calculation of total cost of ethereum compilation.</p>
-<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/11.png">
 
 <br>

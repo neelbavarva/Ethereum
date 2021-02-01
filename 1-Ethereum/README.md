@@ -18,7 +18,38 @@
 
 <br>
 
-<br>
 
 <p>5. What is Transaction?</p>
 <img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+
+<br>
+
+<p>6. What metamask contains and how it is connected to different ethereum networks.</p>
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+
+<br>
+
+<p>7. What a contract account have?</p>
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+
+<br>
+
+<p>8. What a contract functions can do?</p>
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+
+<br>
+
+<p>9. About gasPrice and gasLimit (appears in ethreum online compilier).</p>
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+
+<br>
+
+<p>10. How different operations cost in ethereum compilation.</p>
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+
+<br>
+
+<p>11. Calculation of total cost of ethereum compilation.</p>
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/1-Ethereum/Images/5.jpeg">
+
+<br>

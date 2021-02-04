@@ -11,23 +11,23 @@ class Car{<br>
     }<br>
 }<br>
 </p>
-
+<br>
 <p>
-let car;
-
-beforeEach(() => {
-    car = new Car();
-})
+let car;<br>
+<br>
+beforeEach(() => {<br>
+    car = new Car();<br>
+})<br>
 </p>
-
+<br>
 <p>
 describe('Car', () => { <br>
-    it('can park', () => {
-        assert.equal(car.park(), 'stopped');
-    });
-
-    it('can drive', () => {
-        assert.equal(car.drive(), 'vroom');
-    })
-})
+    it('can park', () => {<br>
+        assert.equal(car.park(), 'stopped');<br>
+    });<br>
+<br>
+    it('can drive', () => {<br>
+        assert.equal(car.drive(), 'vroom');<br>
+    })<br>
+})<br>
 </p>

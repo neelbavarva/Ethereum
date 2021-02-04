@@ -1,4 +1,6 @@
-<div>
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/2-SmartContract_Solidity/Mocha/Images/1.png">
+
+<p>
 class Car{
     park(){
         return 'stopped';
@@ -24,4 +26,4 @@ describe('Car', () => {
         assert.equal(car.drive(), 'vroom');
     })
 })
-</div>
+</p>

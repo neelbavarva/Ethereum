@@ -10,13 +10,17 @@ class Car{
         return 'vroom';
     }
 }
+</p0>
 
+<p>
 let car;
 
 beforeEach(() => {
     car = new Car();
 })
+</p>
 
+<p>
 describe('Car', () => {
     it('can park', () => {
         assert.equal(car.park(), 'stopped');

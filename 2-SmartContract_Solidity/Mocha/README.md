@@ -1,16 +1,16 @@
 <img src ="https://github.com/neelbavarva/Ethereum/blob/main/2-SmartContract_Solidity/Mocha/Images/1.png">
 
 <p>
-class Car{
-    park(){
-        return 'stopped';
-    }
-
-    drive(){
-        return 'vroom';
-    }
-}
-</p0>
+class Car{<br>
+    park(){<br>
+        return 'stopped';<br>
+    }<br>
+    <br>
+    drive(){<br>
+        return 'vroom';<br>
+    }<br>
+}<br>
+</p>
 
 <p>
 let car;
@@ -21,7 +21,7 @@ beforeEach(() => {
 </p>
 
 <p>
-describe('Car', () => {
+describe('Car', () => { <br>
     it('can park', () => {
         assert.equal(car.park(), 'stopped');
     });

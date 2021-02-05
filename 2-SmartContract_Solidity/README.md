@@ -1,1 +1,1 @@
-<img src ="https://github.com/neelbavarva/Ethereum/blob/main/Images/ethereum.svg">
+<img src ="https://github.com/neelbavarva/Ethereum/blob/main/2-SmartContract_Solidity/Images/1.png">
